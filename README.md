@@ -11,7 +11,7 @@ Link:  https://drive.google.com/file/d/1pGf4pfwIQYcViVUei2jfvGSx56JaI4JZ/view?us
 ## Citation
 
 ```
-@inproceedings{mfa,
+@inproceedings{Mandarin_Lombard_Grid,
   title={Mandarin Lombard Grid: A Noise Induced Lombard-Grid-Like Corpus of Standard Chinese},
   author={Yuhong Yang, Xufeng Chen, Qingmu Liu, Weiping Tu, Hongyang Chen, Linjun Cai},
   booktitle={Interspeech},
