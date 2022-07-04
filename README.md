@@ -26,7 +26,7 @@ The Mandarin Lombard Grid corpus is being made freely available for download und
 
 ## Credits
 
-Thanks to Jiajian Feng, Jiahao Guo and Qichen Xu for their contribution in planning, development, and collection of Mandarin Lombard Grid.
+Thanks to Jiajian Feng, Jiahao Guo, Qichen Xu and Jiashuo Ge for their contribution in planning, development, and collection of Mandarin Lombard Grid.
 
 This research is funded in part by the National Natural Science Foundation of China (62171326), Key Research and Development Program of Hubei Province (220171406), the Fundamental Research Funds for the Central Universities (2042021kf0039). The numerical calculations in this paper have been done on the supercomputing system in the Supercomputing Center of Wuhan University.
 
