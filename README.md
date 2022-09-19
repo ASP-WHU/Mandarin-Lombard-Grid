@@ -12,12 +12,13 @@ Link: https://drive.google.com/file/d/1pGf4pfwIQYcViVUei2jfvGSx56JaI4JZ/view?usp
 ## Citation
 
 ```
-@inproceedings{Mandarin_Lombard_Grid,
-  title={Mandarin Lombard Grid: A Noise Induced Lombard-Grid-Like Corpus of Standard Chinese},
-  author={Yuhong Yang, Xufeng Chen, Qingmu Liu, Weiping Tu, Hongyang Chen, Linjun Cai},
-  booktitle={Interspeech},
-  volume={2022},
-  year={2022}
+@inproceedings{yang22i_interspeech,
+  author={Yuhong Yang and Xufeng Chen and Qingmu Liu and Weiping Tu and Hongyang Chen and Linjun Cai},
+  title={{Mandarin Lombard Grid: a Lombard-grid-like corpus of Standard Chinese}},
+  year=2022,
+  booktitle={Proc. Interspeech 2022},
+  pages={3078--3082},
+  doi={10.21437/Interspeech.2022-854}
 }
 ```
 
