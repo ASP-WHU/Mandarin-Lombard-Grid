@@ -7,7 +7,9 @@ Link: https://www.isca-speech.org/archive/interspeech_2022/yang22i_interspeech.h
 
  The download consist of 4000 utterances for now. The remaining 7200 utterances and transcriptions will be made public soon.
 
-Link: https://drive.google.com/file/d/1pGf4pfwIQYcViVUei2jfvGSx56JaI4JZ/view?usp=sharing
+4000 utterances Link: https://drive.google.com/file/d/1pGf4pfwIQYcViVUei2jfvGSx56JaI4JZ/view?usp=sharing
+
+11200 utterances Link: https://drive.google.com/file/d/1piEnV0B39oGDt_xa3O9I9eYBdBRv61Df/view?usp=sharing
 
 ## Citation
 
